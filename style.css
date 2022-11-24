@@ -17,11 +17,6 @@ span {
     
 }
 
-img {
-    width: 180px;
-    height: 180px;
-}
-
 Section, 
 header {
     padding: 10px 60px 20px 60px;
@@ -55,4 +50,20 @@ header li {
 
 .circle {
     border-radius: 50%;
+}
+
+.profile-picture {
+    width: 180px;
+    height: 180px;
+}
+
+.hobbies {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hobbies li {
+    width: 50%;
 }
