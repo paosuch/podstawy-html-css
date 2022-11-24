@@ -86,3 +86,13 @@ header li {
 p {
     line-height: 1.5;
 }
+
+.cv-download-link {
+    border: 2px solid cornflowerblue;
+    color: grey;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 20px;
+    border-radius: 26px;
+}
