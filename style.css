@@ -35,3 +35,11 @@ header {
     align-items: center;
     justify-content: space-between;
 }
+
+header ul {
+    list-style: none;
+}
+
+header li {
+    margin-bottom: 15px
+}
