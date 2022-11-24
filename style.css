@@ -44,12 +44,15 @@ header li {
     margin-bottom: 15px
 }
 
-header address img {
+.address-icon {
     width: 16px;
     height: 16px;
     background-color: cornflowerblue;
     margin-right: 10px;
     padding: 8px;
     vertical-align: middle;
-    border-radius: 16px;
+}
+
+.circle {
+    border-radius: 50%;
 }
